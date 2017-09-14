@@ -54,7 +54,9 @@ Credit: [i-can-variable-font](https://github.com/scribbletone/i-can-variable-fon
 
   To solve the problem, I have to change those straight line (zero-length controls point) to co-linear controls point.
 
-  ![image of colinearcontrolpoint](https://github.com/boomwooq/emotionaltype/[screenshot](https://github.com/boomwooq/emotionaltype/tree/master/screenshot)/**colinearcontrolpoint-01.png**)
+  ![image of point](https://github.com/boomwooq/emotionaltype/blob/master/screenshot/colinearcontrolpoint-01.png)
+
+  ​
 
 ## Build with ##
 

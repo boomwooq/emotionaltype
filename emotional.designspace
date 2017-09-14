@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<designspace format="3">
+    <axes>
+        <axis default="0" maximum="1000" minimum="-1000" name="weight" tag="wght" />
+    </axes>
+    <sources>
+        <source familyname="emotional" filename="source/emotional_pos_4.ufo" stylename="+4">
+            <location>
+                <dimension name="weight" xvalue="1000" />
+            </location>
+        </source>
+        <source familyname="emotional" filename="source/emotional_pos_3.ufo" stylename="+3">
+            <location>
+                <dimension name="weight" xvalue="750" />
+            </location>
+        </source>
+        <source familyname="emotional" filename="source/emotional_pos_2.ufo" stylename="+2">
+            <location>
+                <dimension name="weight" xvalue="500" />
+            </location>
+        </source>
+        <source familyname="emotional" filename="source/emotional_pos_1.ufo" stylename="+1">
+            <location>
+                <dimension name="weight" xvalue="250" />
+            </location>
+        </source>
+        <source familyname="emotional" filename="source/emotional_neg_4.ufo" stylename="-4">
+            <location>
+                <dimension name="weight" xvalue="-1000" />
+            </location>
+        </source>
+        <source familyname="emotional" filename="source/emotional_neg_3.ufo" stylename="-3">
+            <location>
+                <dimension name="weight" xvalue="-750" />
+            </location>
+        </source>
+        <source familyname="emotional" filename="source/emotional_neg_2.ufo" stylename="-2">
+            <location>
+                <dimension name="weight" xvalue="-500" />
+            </location>
+        </source>
+        <source familyname="emotional" filename="source/emotional_neg_1.ufo" stylename="-1">
+            <location>
+                <dimension name="weight" xvalue="-250" />
+            </location>
+        </source>
+        <source familyname="emotional" filename="source/emotional_default.ufo" stylename="0">
+            <location>
+                <dimension name="weight" xvalue="0" />
+            </location>
+        </source>
+    </sources>
+</designspace>

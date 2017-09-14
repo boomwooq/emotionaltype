@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="l" format="1">
+  <advance width="750"/>
+  <unicode hex="006C"/>
+  <outline>
+    <contour>
+      <point x="102" y="1415" type="curve" smooth="yes"/>
+      <point x="102" y="1306"/>
+      <point x="300" y="1351"/>
+      <point x="300" y="1054" type="curve" smooth="yes"/>
+      <point x="300.0" y="893.958591759"/>
+      <point x="235.400639974" y="714.616155218"/>
+      <point x="187.288763452" y="548.605200577" type="curve" smooth="yes"/>
+      <point x="158.742176093" y="450.104652234"/>
+      <point x="136.0" y="356.297446191"/>
+      <point x="136" y="274" type="curve" smooth="yes"/>
+      <point x="136" y="79"/>
+      <point x="274" y="-22"/>
+      <point x="404" y="-22" type="curve" smooth="yes"/>
+      <point x="558" y="-22"/>
+      <point x="660" y="71"/>
+      <point x="660" y="141" type="curve" smooth="yes"/>
+      <point x="660" y="182"/>
+      <point x="632" y="214"/>
+      <point x="594" y="214" type="curve" smooth="yes"/>
+      <point x="530" y="214"/>
+      <point x="517" y="127"/>
+      <point x="436" y="127" type="curve" smooth="yes"/>
+      <point x="355" y="127"/>
+      <point x="310" y="200"/>
+      <point x="310" y="299" type="curve" smooth="yes"/>
+      <point x="310" y="477"/>
+      <point x="472" y="770"/>
+      <point x="472" y="1088" type="curve" smooth="yes"/>
+      <point x="472" y="1362"/>
+      <point x="293" y="1496"/>
+      <point x="198" y="1496" type="curve" smooth="yes"/>
+      <point x="129" y="1496"/>
+      <point x="102" y="1463"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>43</integer>
+          <key>y</key>
+          <integer>166</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

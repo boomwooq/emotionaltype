@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<designspace format="2">
+    <!-- Superpolator Designspace Object -->
+    <!-- info -->
+    <version superpolator="2"/>
+    <!-- measurements -->
+    <!-- application data -->
+    <data name="horizontalPreviewAxis" value="weight"/>
+    <data name="lineInverted" value="False"/>
+    <data name="lineViewFilled" value="True"/>
+    <data name="lineStacked" value="sequence"/>
+    <data name="generateFontsAtFolder" value="/Users/boom1promphans/Dropbox/Basel School of Design/MDes_2_2016/2_semester_2/Thesis/ex_21_Final/emotion_ondisplay/emotional_3_vf/instances"/>
+    <data name="previewtext" value="emotional"/>
+    <data name="verticalPreviewAxis" value="None"/>
+    <!-- don't generate these glyphs -->
+    <ignore glyphs=""/>
+    <!-- axis definitions -->
+    <axis maximum="1000.000000" minimum="-1000.000000" name="weight" shortname="wght">
+        <color a="1.000" b="0.764" g="0.000" r="0.989"/>
+    </axis>
+    <!-- master definitions -->
+    <master familyname="emotional" filename="source/emotional_default.ufo" sortorder="8" stylename="0">
+        <location>
+            <dimension name="weight" xvalue="0.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="emotional" filename="source/emotional_neg_1.ufo" sortorder="7" stylename="-1">
+        <location>
+            <dimension name="weight" xvalue="-250.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="emotional" filename="source/emotional_neg_2.ufo" sortorder="6" stylename="-2">
+        <location>
+            <dimension name="weight" xvalue="-500.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="emotional" filename="source/emotional_neg_3.ufo" sortorder="5" stylename="-3">
+        <location>
+            <dimension name="weight" xvalue="-750.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="emotional" filename="source/emotional_neg_4.ufo" sortorder="4" stylename="-4">
+        <location>
+            <dimension name="weight" xvalue="-1000.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="emotional" filename="source/emotional_pos_1.ufo" sortorder="3" stylename="+1">
+        <location>
+            <dimension name="weight" xvalue="250.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="emotional" filename="source/emotional_pos_2.ufo" sortorder="2" stylename="+2">
+        <location>
+            <dimension name="weight" xvalue="500.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="emotional" filename="source/emotional_pos_3.ufo" sortorder="1" stylename="+3">
+        <location>
+            <dimension name="weight" xvalue="750.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="emotional" filename="source/emotional_pos_4.ufo" sortorder="0" stylename="+4">
+        <location>
+            <dimension name="weight" xvalue="1000.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <!-- instance definitions -->
+</designspace>

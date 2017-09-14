@@ -2,7 +2,7 @@
 
 This project is part of Master thesis in Visual Communication, Master of Design, HGK-UIC FHNW, Basel School of Design (2017). The project is seeking for an alternative way of emotional expression in text message which could be applied in semi-formal situation, e.g., work place communication between co-worker, supervisor and subordinate, providing the tone of voice control. The result of this project not only encourage the user to express either positive or negative emotion but also provide the clear sarcastic sense which is usually considered ambiguous in the pure text. For more about the project, please visit www.emotionaltype.org
 
-(Screenshot- all master with weight
+![image of all weights](https://github.com/boomwooq/emotionaltype/blob/master/screenshot/all_weights.png)
 
 The exploration of this project take place in Apple device as an initial case to explore, therefore, the default type face is SF San Francisco and also sharing the same metrics with others. 
 
@@ -52,7 +52,7 @@ Credit: [i-can-variable-font](https://github.com/scribbletone/i-can-variable-fon
 
   ​
 
-  To solve the problem, I have to change those straight line (zero-length controls point) to co-linear controls point.
+  To solve the problem, I have to change zero-length controls point (straight line) to co-linear controls point.
 
   ![image of point](https://github.com/boomwooq/emotionaltype/blob/master/screenshot/colinearcontrolpoint-01.png)
 

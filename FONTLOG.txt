@@ -1,76 +1,48 @@
-FONTLOG for the GlobalFontFamily fonts
+FONTLOG for Emotional fonts
 
-This file provides detailed information on the GlobalFontFamily Font Software. This information should be distributed along with the GlobalFontFamily fonts and any derivative works.
+This file provides detailed information on the Emotional Font Software. This information should be distributed along with the Emotional fonts and any derivative works.
 
 Basic Font Information
 
-GlobalFontFamily is a Unicode typeface family that supports all languages that use the Latin script and its variants, and could be expanded to support other scripts.
+Emotional font is part of Promphan Suksumek’s Master Thesis in Visual Communication, Basel School of Design, HGK-FHNW. This font aimed to be use for expressing emotion in a text message, not to be compared with emojis or emoticons, it was aimed to be used in semi-formal levels such as in the workplace or the situation where you would like to express emotion/ tone of voice but not in the personal level. To indicate negativity and positivity in text, the letterforms were manipulated by applying more angularity and curvature respectively. It was positioned between expressive handwriting and typography. For more explanation and details, please see  www.emotionaltype.org and the process documentation, which could be linked directly from the site.
 
-NewWorldFontFamily is based on the GlobalFontFamily and also supports Greek, Hebrew, Cyrillic and Armenian.
+Emotional family is not a complete font; the typeface itself has not yet been fully developed, and now the font here only contains nine latin letters— a, e, i, l, m, n, o and t. 
 
-More specifically, this release supports the following Unicode ranges...
-This release contains...
-Documentation can be found at...
-To contribute to the project...
+
+
+This release contains: 
+
+1. emotional-VF.ttf
+2. emotional.designspace
+3. emotional.sp3
+4. OFL.txt
+5. OFL-FAQ.txt
+6. readme.md
+7. screenshot
+  7.1 all_weights.png
+  7.2 colinearcontrolpoint-01.png
+  7.3 Screen Shot 2017-08-26 at 11.02.11 PM.png
+8. source (18 in total— 9 ufo and 9 ttf)
+  8.1 emotional_default.ttf/ufo
+  8.2 emotional_neg_1.ttf/ufo
+  8.3 emotional_neg_2.ttf/ufo
+  8.4 emotional_neg_3.ttf/ufo
+  8.5 emotional_neg_4.ttf/ufo
+  8.6 emotional_pos_1.ttf/ufo
+  8.7 emotional_pos_2.ttf/ufo
+  8.8 emotional_pos_3.ttf/ufo
+  8.9 emotional_pos_4.ttf/ufo
 
 ChangeLog
 
-10 December 2010 (Fred Foobar) GlobalFontFamily-devel version 1.4
-- fix new build and testing system (bug #123456)
-
-1 August 2008 (Tom Parker) GlobalFontFamily version 1.2.1
-- Tweaked the smart font code (Branch merged with trunk version)
-- Provided improved build and debugging environment for smart behaviours
-
-7 February 2007 (Pat Johnson) NewWorldFontFamily Version 1.3
-- Added Greek and Cyrillic glyphs
-
-7 March 2006 (Fred Foobar) NewWorldFontFamily Version 1.2
-- Tweaked contextual behaviours
-
-1 Feb 2005 (Jane Doe) NewWorldFontFamily Version 1.1
-- Improved build script performance and verbosity
-- Extended the smart code documentation
-- Corrected minor typos in the documentation
-- Fixed position of combining inverted breve below (U+032F)
-- Added OpenType/Graphite smart code for Armenian
-- Added Armenian glyphs (U+0531 -> U+0587) 
-- Released as "NewWorldFontFamily"
-
-1 Jan 2005 (Joe Smith) GlobalFontFamily Version 1.0
-- Initial release
+15 September 2017
+— Initial released
 
 Acknowledgements
 
 If you make modifications be sure to add your name (N), email (E), web-address (if you have one) (W) and description (D). This list is in alphabetical order.
 
-N: Jane Doe
-E: jane@university.edu
-W: http://art.university.edu/projects/fonts
-D: Contributor - Armenian glyphs and code
-
-N: Fred Foobar
-E: fred@foobar.org
-W: http://foobar.org
-D: Contributor - misc Graphite fixes
-
-N: Pat Johnson
-E: pat@fontstudio.org
-W: http://pat.fontstudio.org
-D: Designer - Greek & Cyrillic glyphs based on Roman design
-
-N: Tom Parker
-E: tom@company.com
-W: http://www.company.com/tom/projects/fonts
-D: Engineer - original smart font code
-
-N: Joe Smith
-E: joe@fontstudio.org
-W: http://joe.fontstudio.org
-D: Designer - original Roman glyphs
-
-Fontstudio.org is an not-for-profit design group whose purpose is...
-Foobar.org is a distributed community of developers...
-Company.com is a small business who likes to support community designers...
-University.edu is a renowned educational institution with a strong design department...
------
+N: Promphan Suksumek
+E: boom.promphans@gmail.com
+W: http://www.wooq.co
+D: Project creator

@@ -1,10 +1,22 @@
 # Emotional Type #
 
-This project is part of Master thesis in Visual Communication, Master of Design, HGK-UIC FHNW, Basel School of Design (2017). The project is seeking for an alternative way of emotional expression in text message which could be applied in semi-formal situation, e.g., work place communication between co-worker, supervisor and subordinate, providing the tone of voice control. The result of this project not only encourage the user to express either positive or negative emotion but also provide the clear sarcastic sense which is usually considered ambiguous in the pure text. For more about the project, please visit www.emotionaltype.org
+This project is part of a Master's thesis in Visual Communication, HGK-UIC FHNW, Basel School of Design (2017). The project is seeking an alternative way of emotional expression in text messages. Not to be compared with emojis or emoticons, it was aimed to be used in semi-formal levels e.g., communication in workplace between co-workers, supervisors and subordinates, or the situation when you would like to express emotion but not in a personal level. 
+
+
+
+The letterforms were manipulated by applying angularity and curvature idea to express negativity and positivity respectively. It was positioned between expressive handwriting and typography, for more explaination about how the typeface was designed, please check out [process documentation](https://www.dropbox.com/s/juh1nblepx19gpw/emotionaltype_processdocumentation.pdf?dl=0). And on page 144-145 and 190-191 also gave a shortly explaination about how the manipulation system was made. However, Emotional font is not complete; The typeface itself has not yet been fully developed, and the font, here, contains only nine latin letters— a, e, i, l, m, n, o and t.   
+
+
+
+By using OpenType (1.8) variable font format, Emotionaltype gives users ability to customize their tone of voice by providing the various range of steps in between negative to default and defualt to positive. Ideally, this project encourage the user to express both positive and negative emotions in text, and also allow one to express sarcasm. For more about the project, please visit www.emotionaltype.org  
+
+
 
 ![image of all weights](https://github.com/boomwooq/emotionaltype/blob/master/screenshot/all_weights.png)
 
-The exploration of this project take place in Apple device as an initial case to explore, therefore, the default type face is SF San Francisco and also sharing the same metrics with others. 
+Note that this project focused on Apple devices as an initial example to explore and therefore the default typeface is SF San Francisco, which also been set as a metric model for Emotionaltype since it was designed to be used along with the default typeface of that device. 
+
+![image of screenshot_2](https://github.com/boomwooq/emotionaltype/blob/master/screenshot/screenshot_2.png)
 
 
 
@@ -20,13 +32,13 @@ The exploration of this project take place in Apple device as an initial case to
 
 Credit: [i-can-variable-font](https://github.com/scribbletone/i-can-variable-font) 
 
-## How to make ## 
+## How to make this variable font ## 
 
 * Please, check out [i-can-variable-font](https://github.com/scribbletone/i-can-variable-font) for the clear instructions and additional informtion of how to generate variable font. 
 
 * More in my case, the problem I found: 
 
-  It caused me this conversion error line in Terminal:
+  At first, It caused me this conversion error line in Terminal while I was trying to generate variable fonts:
 
   ```terminal
   .
@@ -48,17 +60,15 @@ Credit: [i-can-variable-font](https://github.com/scribbletone/i-can-variable-fon
   cu2qu.ufo.IncompatibleGlyphsError: 'u'
   ```
 
-   while generating variable fonts. It is because my font contains different curve segments from a straight line to curve.
-
-  ​
-
-  To solve the problem, I have to change zero-length controls point (straight line) to co-linear controls point.
+  Later, I fould that because I bring in more curved segments and total number of points increases throughout the different masters. To solve the problem, I have to change from zero-length control points (straight line) to co-linear control points.
 
   ![image of point](https://github.com/boomwooq/emotionaltype/blob/master/screenshot/colinearcontrolpoint-01.png)
 
+  Thanks to Erik van Blokland for responding my email with the clear and helpful explanation. 
+
   ​
 
-## Build with ##
+## Built with ##
 
 * [Robofont](http://doc.robofont.com)
 * [Superpolator](http://superpolator.com)
@@ -66,16 +76,16 @@ Credit: [i-can-variable-font](https://github.com/scribbletone/i-can-variable-fon
 
 ## Note ##
 
-I'm a newbie to this whole things: 
+I'm a newbie to all of this:
 
 * Type Design
-* Generate variable font
+* Variable Fonts
 * Github
 
-If there any mistakes or there is any other corrections you would like to add, you're more than welcome! Or If you have questions regarding the project idea, please do not hesitate to ask either by email (boom.promphans@gmail.com) or create an issue here. 
+If there are any mistakes or there any other corrections you would like to add, you're more than welcome! Or if you have questions regarding the project, please do not hesitate to ask either by email (boom.promphans@gmail.com) or create an issue here. 
 
 
 
-What I shared here might be just the basic information which cannot be compared to those professional, however, I believe that it might be useful, may be, for other newbies out there. 
+What I have shared here might be just the basic information, which cannot be compared to issues discussed by professionals, but I believe that what I have shared might be useful, maybe, for other newbies out there. 
 
 — 

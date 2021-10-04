@@ -89,3 +89,5 @@ If there are any mistakes or there any other corrections you would like to add, 
 What I have shared here might be just the basic information, which cannot be compared to issues discussed by professionals, but I believe that what I have shared might be useful, maybe, for other newbies out there. 
 
 — 
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G86G52E)

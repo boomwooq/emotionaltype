@@ -92,8 +92,8 @@ What I have shared here might be just the basic information, which cannot be com
 ## Update ## 
 04 October 2021
 Now it's about time to continue the project to have all glyphs! And more axes:
-* weights 
-* extended
+* weight
+* extended (not sure about the condensed)
 
 If you're happy about it, you can go on support this project!
 

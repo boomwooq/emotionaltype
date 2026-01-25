@@ -1,11 +1,11 @@
-# Emotional Type #
+# Emotional Type
 
 This project is part of a Master's thesis in Visual Communication, HGK-UIC FHNW, Basel School of Design (2017). The project is seeking an alternative way of emotional expression in text messages. Not to be compared with emojis or emoticons, it was aimed to be used in semi-formal levels e.g., communication in workplace between co-workers, supervisors and subordinates, or the situation when you would like to express emotion but not in a personal level. 
 
 
+The letterforms were manipulated by applying angularity and curvature idea to express negativity and positivity respectively. It was positioned between expressive handwriting and typography, for more explaination about how the typeface was designed, please check out the [process documentation](https://www.dropbox.com/scl/fi/4iztf1gmm0j5oo24pl1tb/emotionaltype_processdocumentation.pdf?rlkey=g6pwcu3at1qvpdaag7y37w90v&dl=0) and my [research paper](https://www.dropbox.com/scl/fi/uj471jxwoqk9abar8xl9p/promphan_emotionaltype_thesis.pdf?rlkey=2q67hj09jvr9tdvqm94o1pspi&dl=0). 
 
-The letterforms were manipulated by applying angularity and curvature idea to express negativity and positivity respectively. It was positioned between expressive handwriting and typography, for more explaination about how the typeface was designed, please check out [process documentation](https://www.dropbox.com/s/juh1nblepx19gpw/emotionaltype_processdocumentation.pdf?dl=0). And on page 144-145 and 190-191 also gave a shortly explaination about how the manipulation system was made. However, Emotional font is not complete; The typeface itself has not yet been fully developed, and the font, here, contains only nine latin letters— a, e, i, l, m, n, o and t.   
-
+On pages 144-145 and 190-191 of the documentation I give a short explanation about how the manipulation system was made. However, the Emotional font is not complete; The typeface itself has not yet been fully developed, and the font, here, contains only nine latin letters— a, e, i, l, m, n, o and t.  
 
 
 By using OpenType (1.8) variable font format, Emotionaltype gives users ability to customize their tone of voice by providing the various range of steps in between negative to default and defualt to positive. Ideally, this project encourage the user to express both positive and negative emotions in text, and also allow one to express sarcasm. For more about the project, please visit www.emotionaltype.org  
